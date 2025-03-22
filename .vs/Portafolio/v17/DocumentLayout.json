@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\sass\\components\\_image.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\sass\\components\\_image.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,28 +33,32 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "fontawesome-all.min.css",
+              "DocumentMoniker": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\css\\fontawesome-all.min.css",
+              "RelativeDocumentMoniker": "assets\\css\\fontawesome-all.min.css",
+              "ToolTip": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\css\\fontawesome-all.min.css",
+              "RelativeToolTip": "assets\\css\\fontawesome-all.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T15:48:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "generic.html",
               "DocumentMoniker": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\generic.html",
               "RelativeDocumentMoniker": "generic.html",
               "ToolTip": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\generic.html",
               "RelativeToolTip": "generic.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswB4AAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-19T02:09:30.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_image.scss",
-              "DocumentMoniker": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\sass\\components\\_image.scss",
-              "RelativeDocumentMoniker": "assets\\sass\\components\\_image.scss",
-              "ToolTip": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\assets\\sass\\components\\_image.scss",
-              "RelativeToolTip": "assets\\sass\\components\\_image.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-03-19T01:35:12.7Z"
             },
             {
               "$type": "Document",
@@ -64,7 +68,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\cinxg\\OneDrive\\Im\u00E1genes\\Documentos\\Escritorio\\Generation\\Portafolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswIwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-18T22:30:50.237Z",
               "EditorCaption": ""
